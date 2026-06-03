@@ -2,6 +2,11 @@
 Analytics_projects
 🛒 E-Commerce Orders Dataset — Data Cleaning Project
 
+![Cleaned Data](./Ayodeji%20cleaned%20data.PNG)
+
+![Raw Dataset](./Ayodeji_Raw%20dataset.PNG)
+
+
 📋 Overview
 
 This project focuses on cleaning and preparing a raw e-commerce orders dataset for analysis. The dataset contains transactional records including order details, customer information, product types, pricing, shipping, payment methods, and sales outcomes.
